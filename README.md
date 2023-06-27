@@ -15,7 +15,7 @@ This project has automate user API from postman using newman
 - ``` npm i ```
 - ``` node .\report.js ```
 
-A report will be generate in your project source root
+A report will be generated in your project source root
 
 ## Testcase:
 https://docs.google.com/spreadsheets/d/1aBCKNoyVPVZ6Sl27JjIM9sql6kUOFuTKpyyirj84Eg8/edit#gid=0
